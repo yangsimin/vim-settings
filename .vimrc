@@ -13,6 +13,8 @@ set incsearch
 set ignorecase
 set smartcase
 set ruler
+set expandtab
+set tabstop=2
 
 nnoremap <up> <nop>
 nnoremap <down> <nop>
